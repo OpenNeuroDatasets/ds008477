@@ -1,0 +1,16 @@
+{
+    "Name": "Longitudinal MEMRI study of exercise and sexual behavior in female Wistar rats",
+    "BIDSVersion": "1.11.1",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Julissa Mendoza",
+        "Raul G. Paredes",
+        "Maria F. Barrera-Tenorio",
+        "Lorena Gaytan-Tocaven",
+        "Josue A. Aguilar-Moreno"
+    ],
+    "Acknowledgements": "Instituto de Neurobiologia, UNAM",
+    "HowToAcknowledge": "Please cite the associated publication when using these data.",
+    "DatasetDOI": "doi:10.18112/openneuro.ds008477.v1.0.2"
+}
